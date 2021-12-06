@@ -5,7 +5,7 @@
 # Discord ModMail Bot <!-- omit in toc -->
 
 ![Maintenance](https://img.shields.io/maintenance/yes/2021?style=plastic)
-![GitHub package.json version](https://img.shields.io/github/package-json/v/AnthonyVTdev/Discord-ModMail-Bot)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/AnthonyVTdev/Discord-ModMail-Bot/blob/main/package.json)
 ![GitHub repo size](https://img.shields.io/github/repo-size/AnthonyVTdev/Discord-ModMail-Bot)
 ![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/AnthonyVTdev/Discord-ModMail-Bot/discord.js)
 ![Discord Support](https://img.shields.io/discord/889487066440818690?label=Discord%20Support&labelColor=FFFFF&style=plastic&logo=Discord&link=https://discord.gg/ZAzGRFTv59&link=https://discord.gg/ZAzGRFTv59)

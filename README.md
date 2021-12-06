@@ -172,4 +172,4 @@ PM2 is a node module that can be easily installed and setup to keep your bot onl
 4. Read more pm2 commands here.
 
 ## 4.4 Repl.it Hosting
-Using the deploy button at the top of this repository is an option for hosting. However, make sure to [store your secrets safely](https://docs.replit.com/repls/secrets-environment-variables). It is **required** to at least store your Discord Bot token this way to keep it safe from attackers. 
+Using the deploy button at the top of this repository is an option for hosting. However, make sure to [store your secrets safely](https://docs.replit.com/repls/secrets-environment-variables). It is **required** to at least store your Discord Bot token this way to keep it safe from attackers.

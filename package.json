@@ -1,5 +1,5 @@
 {
-  "name": "sambot-modmail",
+  "name": "avt-modmail",
   "version": "2.1.2",
   "description": "A simple user ticket management system",
   "main": "index.js",

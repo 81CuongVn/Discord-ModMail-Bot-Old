@@ -59,11 +59,11 @@ Made by [AnthonyVTdev](https://twitter.com/AnthonyVTdev) with guidance from [ani
   * reload: Reloads a command or command group.
   * load: Loads a new command.
   * unload: Unloads a command.
-  * Note: If You Want To Close The Channel Tikcets Make Sure To Delete The Channel For The Ticket To Be Close.
 
 * ModMail Ticket Channel **Only** Commands
   * close
-    * Close a ticket channel
+    * Close a ticket channel or
+    * If You Want To Close The Channel Tikcets Make Sure To Delete The Channel For The Ticket To Be Close.
   * cmds
     * Shows you all ModMail ticket commands
   * snippet

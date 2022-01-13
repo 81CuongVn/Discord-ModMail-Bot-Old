@@ -26,7 +26,7 @@ module.exports = class botCommand extends (
           icon_url: "https://i.imgur.com/GhivChe.gif",
           url: "https://github.com/AnthonyVTdev",
         },
-        description: "Bot by [AnthonyVTdev](https://github.com/AnthonyVTdev). Join Our Discord Server For Support Or Help [https://discord.gg/ZAzGRFTv59](https://discord.gg/ZAzGRFTv59). Made with [Discord.js Commando](https://github.com/discordjs/Commando#readme)\n\n**Thanks You:**\n[AnIdiots.guide](https://anidiots.guide)\n[Discordjs.guide](https://anidiots.guide)\n[Discordjs Support Server](https://discord.gg/djs)\n[AnthonyVTdev](https://github.com/AnthonyVTdev)",
+        description: "Bot by [AnthonyVTdev](https://github.com/AnthonyVTdev). Join Our Discord Server For Support Or Help [https://discord.gg/ZAzGRFTv59](https://discord.gg/ZAzGRFTv59). Made with [Discord.js Commando](https://github.com/discordjs/Commando#readme)\n\n**Thanks You:**\n[AnIdiots.guide](https://anidiots.guide)\n[Discordjs.guide](https://discordjs.guide/)\n[Discordjs Support Server](https://discord.gg/djs)\n[AnthonyVTdev](https://github.com/AnthonyVTdev)",
         fields: [
           {
             name: "Prefix",

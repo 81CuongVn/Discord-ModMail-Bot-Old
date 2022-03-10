@@ -24,9 +24,9 @@ module.exports = class botCommand extends (
         author: {
           name: "AnthonyVTdev",
           icon_url: "https://i.imgur.com/GhivChe.gif",
-          url: "https://github.com/AnthonyVTdev",
+          url: "https://github.com/AnthonyVanTonder",
         },
-        description: "Bot by [AnthonyVTdev](https://github.com/AnthonyVTdev). Join Our Discord Server For Support Or Help [https://discord.gg/ZAzGRFTv59](https://discord.gg/ZAzGRFTv59). Made with [Discord.js Commando](https://github.com/discordjs/Commando#readme)\n\n**Thanks You:**\n[AnIdiots.guide](https://anidiots.guide)\n[Discordjs.guide](https://discordjs.guide/)\n[Discordjs Support Server](https://discord.gg/djs)\n[AnthonyVTdev](https://github.com/AnthonyVTdev)",
+        description: "Bot by [AnthonyVTdev](https://github.com/AnthonyVanTonder). Join Our Discord Server For Support Or Help [https://discord.gg/ZAzGRFTv59](https://discord.gg/ZAzGRFTv59). Made with [Discord.js Commando](https://github.com/discordjs/Commando#readme)\n\n**Thanks You:**\n[AnIdiots.guide](https://anidiots.guide)\n[Discordjs.guide](https://discordjs.guide/)\n[Discordjs Support Server](https://discord.gg/djs)\n[AnthonyVanTonder](https://github.com/AnthonyVanTonder)",
         fields: [
           {
             name: "Prefix",
@@ -45,7 +45,7 @@ module.exports = class botCommand extends (
           },
           {
             name: "Docs",
-            value: "https://github.com/AnthonyVTdev/Discord-ModMail-Bot/blob/master/README.md",
+            value: "https://github.com/AnthonyVanTonder/Discord-ModMail-Bot/blob/master/README.md",
           },
         ],
       },

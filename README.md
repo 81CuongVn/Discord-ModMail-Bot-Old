@@ -4,12 +4,12 @@
 
 # Discord ModMail Bot <!-- omit in toc -->
 
-![Maintenance](https://img.shields.io/maintenance/yes/2021?style=plastic)
-![GitHub package.json version](https://img.shields.io/github/package-json/v/AnthonyVTdev/Discord-ModMail-Bot)
-![GitHub repo size](https://img.shields.io/github/repo-size/AnthonyVTdev/Discord-ModMail-Bot)
-![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/AnthonyVTdev/Discord-ModMail-Bot/discord.js)
+![Maintenance](https://img.shields.io/maintenance/yes/2022?style=plastic)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/AnthonyVanTonder/Discord-ModMail-Bot)
+![GitHub repo size](https://img.shields.io/github/repo-size/AnthonyVanTonder/Discord-ModMail-Bot)
+![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/AnthonyVanTonder/Discord-ModMail-Bot/discord.js)
 ![Discord Support](https://img.shields.io/discord/889487066440818690?label=Discord%20Support&labelColor=FFFFF&style=plastic&logo=Discord&link=https://discord.gg/ZAzGRFTv59&link=https://discord.gg/ZAzGRFTv59)
-[![Run on Repl.it](https://repl.it/badge/github/AnthonyVTdev/Discord-ModMail-Bot)](https://repl.it/github/AnthonyVTdev/Discord-ModMail-Bot)
+[![Run on Repl.it](https://repl.it/badge/github/AnthonyVanTonder/Discord-ModMail-Bot)](https://repl.it/github/AnthonyVanTonder/Discord-ModMail-Bot)
 
 Made by [AnthonyVTdev](https://twitter.com/AnthonyVTdev) with guidance from [anidiots.guide](http://anidiots.guide), [discordjs.guide](https://discordjs.guide/), and the [Discord.JS Community](https://discord.gg/djs)!
 

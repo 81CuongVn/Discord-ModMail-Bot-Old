@@ -86,7 +86,7 @@ Made by [AnthonyVTdev](https://twitter.com/AnthonyVTdev) with guidance from [ani
 # 4. Documentation
 
 ## 4.1. Setup
-1. Clone the repository `git clone https://github.com/AnthonyVTdev/Discord-ModMail-Bot.git`
+1. Clone the repository `git clone https://github.com/AnthonyVanTonder/Discord-ModMail-Bot.git`
 2. Change your working directory `cd modmail/`
 3. Install NPM modules `npm install`
 4. Copy the example config file and edit it accordingly (See the Config File section below) `cp example.config.json config.json`

@@ -11,7 +11,7 @@
 ![Discord Support](https://img.shields.io/discord/889487066440818690?label=Discord%20Support&labelColor=FFFFF&style=plastic&logo=Discord&link=https://discord.gg/ZAzGRFTv59&link=https://discord.gg/ZAzGRFTv59)
 [![Run on Repl.it](https://repl.it/badge/github/AnthonyVanTonder/Discord-ModMail-Bot)](https://repl.it/github/AnthonyVanTonder/Discord-ModMail-Bot)
 
-Made by [AnthonyVTdev](https://twitter.com/AnthonyVTdev) with guidance from [anidiots.guide](http://anidiots.guide), [discordjs.guide](https://discordjs.guide/), and the [Discord.JS Community](https://discord.gg/djs)!
+Made by [Anthony van Tonder](https://twitter.com/AnthonyWasFound) with guidance from [anidiots.guide](http://anidiots.guide), [discordjs.guide](https://discordjs.guide/), and the [Discord.JS Community](https://discord.gg/djs)!
 
 # 1. Features
 * Per user ticket channels
